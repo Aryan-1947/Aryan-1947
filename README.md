@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/10ad53152833127.6324a6a752551.gif" alt="Coding Keyboard GIF" width="600"/>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/641c2b170466977.645e34a7760bf.gif" alt="Coding Keyboard GIF" width="600"/>
 </p>
 
 ---
@@ -162,7 +162,7 @@
 - 🐍 **Python Programming Course**: HAAPPS (May 2024).
 - 💻 **Hackfest Participant**: GeeksforGeeks (Oct 2024).  
 - 🎓 **TECHNOUTSAV 3.0 Volunteer**: IEEE ADGIPS (Oct 2023).
-- 🎭 Utkarsh’24 Coordinator: Annual Fest (Mar 2024).
+- 🎭 **Utkarsh’24 Coordinator**: Annual Fest (Mar 2024).
 
 ---
 
