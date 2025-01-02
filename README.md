@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Aryan Shekhawat  
-**🎓 Sophomore Engineering Undergraduate** | **🧑‍💻 AI Enthusiast** | **🚀 Problem Solver**  
+**🎓 Sophomore Engineering Undergraduate** | **🧑‍💻 AI Enthusiast** | **🎨 Creative UI/UX Designer** | **🌟 User-Centric Innovator** 
 
 </div>
 
@@ -141,8 +141,8 @@
 
 ## 👩‍💻 About Me  
 
-- 🎓 B.Tech in AI & Data Science (2023-2027) at **GGSIPU, Delhi**, with a current CGPA of **9.1**.  
-- 🌱 Currently diving deep into **Machine Learning** , **Game Development** and **AR/VR**.  
+- 🎓 B.Tech in AI & Data Science (2023-2027) at **GGSIPU, Delhi**, with a current CGPA of **8.6**.  
+- 🌱 Currently diving deep into **Machine Learning** , **Game Development** , **UI/UX Designing** and **AR/VR**.  
 - 💡 Passionate about combining **creativity** and **technology** to solve real-world challenges.  
 - ✨ Open to collaborating on **AI-ML based projects**.  
 
