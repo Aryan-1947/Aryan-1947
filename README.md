@@ -180,11 +180,11 @@
 ## Some stats about me :
 
 <p align="center">
-        <img alt="Github Streak" title="Streak Stats" src="https://streak-stats.demolab.com?user=MuskanBajetha&theme=gotham&border_radius=5.0&date_format=j%20M%5B%20Y%5D&card_width=467">
-        <img alt="GitHub stats" title="Overall Stats" src="https://github-readme-stats.vercel.app/api?username=MuskanBajetha&show_icons=true&text_color=2aa889&bg_color=0c1014&icon_color=599cab&title_color=599cab">
+        <img alt="Github Streak" title="Streak Stats" src="https://streak-stats.demolab.com?user=Aryan-1947&theme=gotham&border_radius=5.0&date_format=j%20M%5B%20Y%5D&card_width=467">
+        <img alt="GitHub stats" title="Overall Stats" src="https://github-readme-stats.vercel.app/api?username=Aryan-1947&show_icons=true&text_color=2aa889&bg_color=0c1014&icon_color=599cab&title_color=599cab">
         <br />
         <div align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=MuskanBajetha&theme=onedark&column=7&margin-w=12&margin-h=12&row=1">
+        <img src="https://github-profile-trophy.vercel.app/?username=Aryan-1947&theme=onedark&column=7&margin-w=12&margin-h=12&row=1">
         </div>
 </p>
 
